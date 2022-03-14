@@ -1,0 +1,380 @@
+﻿OTU_ID,Phylum,Class,Order,Family,BOLD,BOLD_Perc,BLAST,BLAST_Perc,Result
+OTU_1,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus laccophilus,100,Paratanytarsus laccophilus,100,Paratanytarsus laccophilus
+OTU_2,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia,99.52,Ablabesmyia,91,Ablabesmyia sp.
+OTU_3,Arthropoda,Insecta,Diptera,Chironomidae,Monopelopia tenuicalcar,100,Monopelopia tenuicalcar,100,Monopelopia tenuicalcar
+OTU_4,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus nemorosus,98.8,Tanytarsus nemorosus,100,Tanytarsus nemorosus
+OTU_5,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes pedellus,100,Microtendipes pedellus,100,Microtendipes pedellus
+OTU_6,Arthropoda,Insecta,Diptera,Chironomidae,Procladius crassinervis,100,Procladius crassinervis,100,Procladius crassinervis
+,Arthropoda,Insecta,Diptera,Chironomidae,Procladius pruinosus,100,Procladius cf. Fuscus,100,
+OTU_7,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum nubeculosum,100,Polypedilum nubeculosum,100,Polypedilum nubeculosum
+OTU_8,Arthropoda,Insecta,Diptera,Chironomidae,Procladius,98.51,Procladius,91,Procladius sp.
+OTU_9,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus cf. aprilinus,100,Chironomus pseudothummi/riparius,100,Chironomus sp.
+OTU_10,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus pseudomendax,100,Chironomus dorsalis,100,Chironomus pseudomendax/dorsalis
+,Arthropoda,Insecta,Diptera,Chironomidae,,,Chironomus pseudomendax,99,
+OTU_11,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus pallidus,100,Cladotanytarsus iucundus,100,Cladotanytarsus pallidus/iucundus
+,Arthropoda,Insecta,Diptera,Chironomidae,,,Cladotanytarsus pallidus,98,
+OTU_12,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus sp.,100,Chironomus sp.,100,Chironomus sp.
+OTU_13,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius sp. 17ES,98.56,Orthocladius smolandicus,95,Orthocladius sp. 17ES
+OTU_14,Arthropoda,Insecta,Diptera,Chironomidae,Procladius,100,Procladius choreus,99,Procladius sp.
+OTU_15,Arthropoda,Insecta,Diptera,Chironomidae,Micropsectra lindrothi,100,Micropsectra lindrothi,100,Micropsectra lindrothi
+OTU_16,Arthropoda,Insecta,Diptera,Chironomidae,Clinotanypus nervosus,100,Clinotanypus nervosus,100,Clinotanypus nervosus
+OTU_17,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,99.52,Tanytarsus mendax,100,Tanytarsus mendax
+OTU_18,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus,100,Chironomus nuditaris,100,Chironomus sp.
+OTU_19,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,88,Chironomidae,88,Chironomidae
+OTU_20,Arthropoda,Insecta,Diptera,Chironomidae,Glyptotendipes pallens,100,Glyptotendipes pallens,100,Glyptotendipes pallens
+OTU_21,Arthropoda,Insecta,Diptera,Chironomidae,Paratendipes albimanus,100,Paratendipes albimanus,100,Paratendipes albimanus
+OTU_22,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,90,Cricotopus,90,Cricotopus
+OTU_23,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,100,Tanytarsus occultus,100,Tanytarsus occultus
+OTU_24,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,99.04,Chironomidae,88,Chironomidae
+OTU_25,Arthropoda,Insecta,Diptera,Chironomidae,Zavreliella marmorata,99.76,Zavreliella marmorata,99.52,Zavreliella marmorata
+OTU_26,Arthropoda,Insecta,Diptera,Chironomidae,Procladius nigriventris,100,Procladius nigriventris,100,Procladius nigriventris/culiciformis
+,Arthropoda,Insecta,Diptera,Chironomidae,Procladius culiciformis,99.76,Procladius culiciformis,100,
+OTU_27,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,99.76,Tanytarsus occultus,99.76,Tanytarsus occultus
+OTU_28,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus sp. 4ES,99.15,Cricotopus maurii,98,Cricotopus sp. 4ES/tricinctus/maurii/fuscus
+,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus   tricinctus,99,Cricotopus fuscus,98,
+OTU_29,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius platypus,99.76,Psectrocladius platypus,100,Psectrocladius platypus
+OTU_30,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,100,No match,,Chironomidae
+OTU_31,Arthropoda,Insecta,Diptera,Chironomidae,Xenopelopia falcigera,100,Xenopelopia falcigera,94,Xenopelopia falcigera
+OTU_32,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius schlienzi,100,Psectrocladius schlienzi,100,Psectrocladius schlienzi
+OTU_33,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus chinyensis,100,Tanytarsus chinyensis,100,Tanytarsus chinyensis
+OTU_34,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,98.56,No match,,Chironomidae
+OTU_35,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius limbatellus,100,Psectrocladius limbatellus,100,Psectrocladius limbatellus
+OTU_36,Arthropoda,Insecta,Diptera,Chironomidae,Dicrotendipes lobiger,100,Dicrotendipes lobiger,100,Dicrotendipes lobiger
+OTU_37,Arthropoda,Insecta,Diptera,Chironomidae,Kiefferulus tendipediformis,100,Kiefferulus tendipediformis,100,Kiefferulus tendipediformis
+OTU_38,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia monilis,99,Ablabesmyia monilis,99,Ablabesmyia monilis
+OTU_39,Arthropoda,Insecta,Diptera,Chironomidae,Synendotendipes impar,99.52,Synendotendipes impar,99.52,Synendotendipes impar
+OTU_40,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius platypus,100,Psectrocladius platypus,100,Psectrocladius platypus
+OTU_41,Arthropoda,Insecta,Diptera,Chironomidae,Procladius culiciformis,100,Procladius culiciformis,100,Procladius culiciformis/pectinatus
+,Arthropoda,Insecta,Diptera,Chironomidae,Procladius pectinatus,100,Procladius pectinatus,100,
+OTU_42,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,,No match,,Chironomidae
+OTU_43,Arthropoda,Insecta,Diptera,Chironomidae,Endochironomus albipennis,99.76,Endochironomus tendens,100,Endochironomus tendens/albipennis
+,Arthropoda,Insecta,Diptera,Chironomidae,Endochironomus tendens,99.76,Endochironomus albipennis,99,
+OTU_44,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,99.76,No match,,Chironomidae
+OTU_45,Arthropoda,Insecta,Diptera,Chironomidae,Psectrotanypus varius,100,Psectrotanypus varius,100,Psectrotanypus varius
+OTU_46,Proteobacteria,Alphaproteobacteria,Rickettsiales,,Rickettsiales,98.92,Rickettsiales,100,Rickettsiales
+OTU_47,Arthropoda,Insecta,Diptera,Chironomidae,Robackia demeijerei,100,Parachironomus vitiosus,100,Robackia demeijerei/Parachironomus vitiosus
+,Arthropoda,Insecta,Diptera,Chironomidae,Parachironomus vitiosus,100,,,
+OTU_48,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia monilis,99.28,Ablabesmyia monilis,99,Ablabesmyia monilis
+OTU_49,Arthropoda,Insecta,Diptera,Chironomidae,Stempellina bausei,99.76,Stempellina bausei,100,Stempellina bausei
+OTU_50,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius sp.,97.6,Psectrocladius sp.,98,Psectrocladius sp.
+OTU_51,Arthropoda,Insecta,Diptera,Chironomidae,Procladius crassinervis,99.52,Procladius crassinervis,100,Procladius crassinervis
+OTU_52,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus annularius,99.76,Chironomus annularius,100,Chironomus annularius
+OTU_53,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus usmaensis,100,Tanytarsus usmaensis,100,Tanytarsus usmaensis
+OTU_54,Arthropoda,Insecta,Diptera,Chironomidae,Acricotopus lucens,100,Acricotopus lucens,100,Acricotopus lucens
+OTU_55,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus cingulatus,100,Chironomus cingulatus,100,Chironomus cingulatus/piger
+,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus piger,99,Chironomus piger,100,
+OTU_56,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus ejuncidus,100,Tanytarsus ejuncidus,100,Tanytarsus ejuncidus
+OTU_57,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum nubeculosum,97,Polypedilum nubeculosum,100,Polypedilum nubeculosum
+OTU_58,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus sp.,99.72,Tanytarsus sp.,98,Tanytarsus sp.
+OTU_59,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus penicillatus,99.76,Paratanytarsus penicillatus,100,Paratanytarsus penicillatus
+OTU_60,Arthropoda,Insecta,Diptera,Chironomidae,Endochironomus albipennis,98.8,Endochironomus albipennis,98,Endochironomus albipennis
+OTU_61,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum tritum,99.52,Polypedilum tritum,99.52,Polypedilum tritum
+OTU_62,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus sp. 4TE,100,Chironomus sp. 4TE,100,Chironomus sp. 4TE
+OTU_63,Arthropoda,Insecta,Diptera,Chironomidae,Micropsectra contracta,100,Micropsectra contracta,100,Micropsectra contracta/apposita
+,Arthropoda,Insecta,Diptera,Chironomidae,,,Micropsectra apposita,100,
+OTU_64,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus laccophilus,100,Paratanytarsus laccophilus,100,Paratanytarsus laccophilus
+OTU_65,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia monilis,99.76,Ablabesmyia monilis,99,Ablabesmyia monilis
+OTU_66,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,97.84,Tanytarsus occultus,98,Tanytarsus occultus
+OTU_67,Arthropoda,Insecta,Diptera,Chironomidae,Glyptotendipes signatus,100,Glyptotendipes signatus,100,Glyptotendipes signatus
+OTU_68,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus laccophilus,99.17,Paratanytarsus laccophilus,99,Paratanytarsus laccophilus
+OTU_69,Arthropoda,Insecta,Diptera,Chironomidae,Tanypus kraatzi,100,Tanypus kraatzi,100,Tanypus kraatzi
+OTU_70,Arthropoda,Insecta,Diptera,Chironominae,Bezzia annulipes,100,No match,,
+OTU_71,Arthropoda,Insecta,Diptera,Chironomidae,Parachironomus parilis,99.76,Parachironomus parilis,99.52,Parachironomus parilis
+OTU_72,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus buchonius,99.76,Tanytarsus buchonius,99.76,Tanytarsus buchonius
+OTU_73,Arthropoda,Insecta,Diptera,Chironomidae,Acricotopus sp.,99.28,No match,,Acricotopus sp.
+OTU_74,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura carriana,100,Corynoneura carriana,100,Corynoneura carriana
+OTU_75,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia schineri,99.76,No match,,Zavrelimyia schineri
+OTU_76,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus tenellulus,99.76,Paratanytarsus tenellulus,99.76,Paratanytarsus tenellulus
+OTU_77,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum arundineti,98.58,Polypedilum arundineti,98.57,Polypedilum arundineti
+OTU_78,Arthropoda,Insecta,Ephemeroptera,Baetidae,Cloeon dipterum,100,Cloeon dipterum,100,Cloeon dipterum
+OTU_79,No match,No match,No match,No match,No match,,No match,,No match
+OTU_80,Arthropoda,Insecta,Diptera,Chironomidae,Metriocnemus,100,Metriocnemus eurynotus,99.76,Metriocnemus eurynotus
+OTU_81,Arthropoda,Insecta,Diptera,Chironomidae,Cladopelma edwardsi,99.28,Cladopelma edwardsi,99.29,Cladopelma edwardsi
+OTU_82,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus sylvestris,100,Cricotopus sylvestris,100,Cricotopus sylvestris/glacialis
+,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus glacialis,100,Cricotopus glacialis,99,
+OTU_83,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,99,No match,,Tanytarsus occultus
+OTU_84,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus pallidicornis,100,Tanytarsus pallidicornis,99,Tanytarsus pallidicornis
+OTU_85,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus grimmii,100,Paratanytarsus grimmii,100,Paratanytarsus grimmii
+OTU_86,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus festivellus,99.76,Cricotopus festivellus,99.76,Cricotopus festivellus
+OTU_87,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,99.28,Tanytarsus occultus,97,Tanytarsus occultus
+OTU_88,Arthropoda,Insecta,Odonata,Coenagrionidae,Coenagrion puella,100,Coenagrion puella,100,Coenagrion puella/pulchellum
+,Arthropoda,Insecta,Odonata,Coenagrionidae,Coenagrion pulchellum,100,Coenagrion pulchellum,100,
+OTU_89,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,100,No match,,Chironomidae
+OTU_90,Arthropoda,Insecta,Diptera,Chironomidae,Stempellinella edwardsi,100,Stempellinella edwardsi,100,Stempellinella edwardsi
+OTU_91,Arthropoda,Insecta,Diptera,Chironomidae,Parachironomus siljanensis,100,Parachironomus siljanensis,99.76,Parachironomus siljanensis/varus
+,Arthropoda,Insecta,Diptera,Chironomidae,Parachironomus varus,99.76,Parachironomus varus,99.76,
+OTU_92,Chordata,Mammalia,Primates,Hominidae,Homo sapiens,100,Homo sapiens,100,Homo sapiens
+OTU_93,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus bituberculatus,99,Paratanytarsus bituberculatus,98,Paratanytarsus bituberculatus
+OTU_94,Arthropoda,Insecta,Diptera,Chironomidae,Procladius,100,Procladius,100,Procladius sp.
+OTU_95,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus lestagei,99.76,Tanytarsus lestagei,99.76,Tanytarsus lestagei/telmaticus
+,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus telmaticus,99.76,Tanytarsus telmaticus,99.76,
+OTU_96,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,99.52,No match,,Chironomidae
+OTU_97,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus crassicaudatus,100,Arrenurus crassicaudatus,100,Arrenurus crassicaudatus
+OTU_98,No match,No match,No match,No match,No match,,No match,,No match
+OTU_99,Arthropoda,Insecta,Diptera,Chironomidae,Guttipelopia guttipennis,99.76,Guttipelopia guttipennis,99.52,Guttipelopia guttipennis
+OTU_100,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes sp. 14ES,100,Limnophyes sp. 14ES,100,Limnophyes sp. 14ES
+OTU_101,Arthropoda,Insecta,Diptera,Chironomidae,Xenopelopia nigricans,99.76,Xenopelopia nigricans,99.76,Xenopelopia nigricans
+OTU_102,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus austriacus,99.52,Paratanytarsus austriacus,99.52,Paratanytarsus austriacus
+OTU_103,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus usmaensis,99.52,Tanytarsus usmaensis,99.52,Tanytarsus usmaensis
+OTU_104,Arthropoda,Insecta,Diptera,Chironomidae,Phaenopsectra flavipes,99.76,Phaenopsectra flavipes,99.76,Phaenopsectra flavipes
+OTU_105,Arthropoda,Insecta,Diptera,Chironomidae,Procladius sp.,97.84,Procladius sp.,97.84,Procladius sp.
+OTU_106,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus sp.,98.08,Tanytarsus sp.,98,Tanytarsus sp.
+OTU_107,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus sp.,99,No match,,Chironomus sp.
+OTU_108,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus brundini,98.77,Tanytarsus brundini,98.1,Tanytarsus brundini
+OTU_109,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura sp. 16ES,100,No match,,Corynoneura sp. 16ES
+OTU_110,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia nr. melanura,100,Zavrelimyia nr. melanura,100,Zavrelimyia nr. melanura
+OTU_111,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,97.6,Tanytarsus occultus,98,Tanytarsus occultus
+OTU_112,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius sp. 5TE,99.52,Psectrocladius sp. 5TE,99.52,Psectrocladius sp. 5TE
+OTU_113,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_114,Arthropoda,Insecta,Diptera,Chironomidae,Apsectrotanypus trifascipennis,100,Apsectrotanypus trifascipennis,100,Apsectrotanypus trifascipennis
+OTU_115,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_116,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_117,Arthropoda,Insecta,Diptera,Ceratopogonidae,Palpomyia sp. 5,99.76,No match,No match,No match
+OTU_118,Arthropoda,Insecta,Diptera,Chironomidae,Heterotrissocladius sp. 2SW,100,No match,,Heterotrissocladius sp. 2SW
+OTU_119,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_120,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius limbatellus,100,Psectrocladius limbatellus,100,Psectrocladius limbatellus
+OTU_121,Arthropoda,Insecta,Diptera,Chironomidae,Eukiefferiella sp.,100,No match,,Eukiefferiella sp.
+OTU_122,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus brundini,99.52,Tanytarsus brundini,99,Tanytarsus brundini
+OTU_123,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes sp. ,100,No match,,Limnophyes sp. 
+OTU_124,Arthropoda,Insecta,Diptera,Chironomidae,Procladius sp.,97,Procladius sp.,97,Procladius sp.
+OTU_125,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_126,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura sp. CHA13Chiro1,100,Corynoneura scutellata,100,Corynoneura sp.
+OTU_127,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus cylindratus,99.76,No match,No match,Arrenurus cylindratus
+OTU_128,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius psilopterus,99.76,Psectrocladius psilopterus,99.76,Psectrocladius psilopterus/octomaculatus
+,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius octomaculatus,99.76,Psectrocladius octomaculatus,99.76,
+OTU_129,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus signatus,99.04,Tanytarsus signatus,99,Tanytarsus signatus
+OTU_130,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea modesta,98.32,No match,No match,Dasyhelea modesta
+OTU_131,Arthropoda,Insecta,Diptera,Chironomidae,Benthalia dissidens,100,Benthalia carbonaria,99,Benthalia dissidens/carbonaria
+,Arthropoda,Insecta,Diptera,Chironomidae,Benthalia carbonaria,100,,,
+OTU_132,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus atridorsum,100,Cladotanytarsus atridorsum,100,Cladotanytarsus atridorsum
+OTU_133,Arthropoda,Insecta,Diptera,Chironomidae,Procladius choreus,99.76,Procladius sp.,99.76,Procladius choreus
+OTU_134,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus cylindratus,99.47,Arrenurus cylindratus,99.47,Arrenurus cylindratus
+OTU_135,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiales,Rickettsiales,98.74,Rickettsiales,97,Rickettsiales
+OTU_136,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus wexionensis,99.76,Cladotanytarsus bicornutus,99.76,Cladotanytarsus bicornutus/wexionensis
+,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus bicornutus,99.76,,,
+OTU_137,Arthropoda,Insecta,Diptera,Chironomidae,Conchapelopia melanops,100,Conchapelopia melanops,100,Conchapelopia melanops
+OTU_138,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,99.52,Bezzia,99.52,
+OTU_139,Arthropoda,Insecta,Diptera,Chironomidae,Natarsia punctata,99.28,Natarsia punctata,99.28,Natarsia punctata/Zavrelimyia nr. hirtimanus
+,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia nr. hirtimanus,99.28,Zavrelimyia nr. hirtimanus,99.28,
+OTU_140,Arthropoda,Insecta,Diptera,Chironomidae,Micropsectra pallidula,100,Micropsectra pallidula,100,Micropsectra pallidula
+OTU_141,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura lobata,99.75,Corynoneura lobata,99,Corynoneura lobata
+OTU_142,Arthropoda,Insecta,Diptera,Chironomidae,Pseudorthocladius curtistylus,99.28,Pseudorthocladius curtistylus,99,Pseudorthocladius curtistylus/ABV3504
+,Arthropoda,Insecta,Diptera,Chironomidae,Pseudorthocladius ABV3504,99.34,,,
+OTU_143,Arthropoda,Insecta,Diptera,Chaoboridae,Chaoborus obscuripes,99.52,Chaoborus obscuripes,99.52,Chaoborus obscuripes
+OTU_144,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,100,No match,No match,Ceratopogonidae
+OTU_145,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius impensus,100,Paraphaenocladius impensus,99,Paraphaenocladius impensus
+OTU_146,Arthropoda,Insecta,Diptera,Chironomidae,Stempellinella edwardsi,99.52,Stempellinella edwardsi,99,Stempellinella edwardsi
+OTU_147,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes pedellus,100,Microtendipes pedellus,99,Microtendipes pedellus
+OTU_148,Arthropoda,Insecta,Diptera,Chironomidae,Paracladopelma camptolabis,100,Paracladopelma camptolabis,100,Paracladopelma camptolabis
+OTU_149,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea stellata,100,No match,No match,Dasyhelea stellata
+OTU_150,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura lacustris,99.76,Corynoneura lacustris,99.76,Corynoneura lacustris/lobata
+,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura lobata,99.76,Corynoneura lobata,99.76,
+OTU_151,Ascomycota,Ascomycota,Ascomycota,Ascomycota,Ascomycota,99.28,No match,No match,Ascomycota
+OTU_152,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus brevicalcar,99.76,Paratanytarsus brevicalcar,98,Paratanytarsus brevicalcar/intricatus
+,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus intricatus,99,Paratanytarsus intricatus,99,
+OTU_153,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus tubulator,98.56,Arrenurus globator,100,Arrenurus
+OTU_154,Arthropoda,Insecta,Diptera,Chironomidae,Tvetenia calvescens,100,Tvetenia calvescens,100,Tvetenia calvescens
+OTU_155,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus eminulus,100,Tanytarsus eminulus,99,Tanytarsus eminulus
+OTU_156,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum uncinatum,99.76,Polypedilum tritum,99,Polypedilum uncinatum/tritum
+,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum tritum,98,,,
+OTU_157,Arthropoda,Insecta,Diptera,Ceratopogonidae,Mallochohelea nitida,99.28,Mallochohelea nitida,99.28,Mallochohelea nitida
+OTU_158,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,98.8,Tanytarsus occultus,98,Tanytarsus occultus
+OTU_159,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus dissimilis,99.76,Paratanytarsus dissimilis,99.76,Paratanytarsus dissimilis
+OTU_160,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides pictipennis,99.76,Culicoides pictipennis,99.76,Culicoides pictipennis
+OTU_161,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum cultellatum,99.76,Polypedilum cultellatum,99,Polypedilum cultellatum
+OTU_162,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_163,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,98.08,No match,No match,Chironomidae
+OTU_164,Arthropoda,Arachnida,Trombidiformes,Pionidae,Piona carnea,99.76,No match,No match,Piona carnea
+OTU_165,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura sp. 20ES,98.08,No match,No match,Corynoneura sp. 20ES
+OTU_166,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_167,Arthropoda,Insecta,Diptera,Culicidae,Anopheles maculipennis,100,Anopheles maculipennis,100,Anopheles maculipennis
+OTU_168,Arthropoda,Insecta,Diptera,Chironomidae,Thienemanniella majuscula,100,Thienemanniella majuscula,100,Thienemanniella majuscula/obscura
+,Arthropoda,Insecta,Diptera,Chironomidae,Thienemanniella obscura,100,Thienemanniella obscura,100,
+OTU_169,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_170,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,99.71,Tanytarsus mendax,98,Tanytarsus mendax
+OTU_171,Arthropoda,Insecta,Diptera,Chironomidae,Rheotanytarsus curtistylus,100,Rheotanytarsus curtistylus,100,Rheotanytarsus curtistylus
+OTU_172,Arthropoda,Arachnida,Trombidiformes,Unionicolidae,Neumania limosa,99.76,No match,No match,Neumania limosa
+OTU_173,Arthropoda,Insecta,Diptera,Chironomidae,Simittia,100,Simittia,100,Simittia sp.
+OTU_174,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_175,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannia gracei,99.04,No match,No match,Thienemannia gracei
+OTU_177,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus riparius,100,Chironomus riparius,100,Chironomus riparius
+OTU_178,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus,99.76,No match,No match,Chironomus sp.
+OTU_179,Arthropoda,Insecta,Ephemeroptera,Baetidae,Cloeon dipterum,100,Cloeon dipterum,100,Cloeon dipterum
+OTU_180,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus usmaensis,98.92,Tanytarsus usmaensis,98.81,Tanytarsus usmaensis
+OTU_181,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus penicillatus,99.76,Paratanytarsus penicillatus,99,Paratanytarsus penicillatus
+OTU_182,Arthropoda,Insecta,Diptera,Chaoboridae,Chaoborus crystallinus,99.76,Chaoborus crystallinus,99.76,Chaoborus crystallinus
+OTU_183,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_184,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia monilis,99.76,Ablabesmyia monilis,99.76,Ablabesmyia monilis
+OTU_185,Arthropoda,Insecta,Diptera,Chironomidae,Tvetenia sp.,99.04,No match,No match,Tvetenia sp.
+OTU_186,Arthropoda,Insecta,Diptera,Chironomidae,Rheosmittia spinicornis,99.75,Rheosmittia spinicornis,99.75,Rheosmittia spinicornis
+OTU_187,Arthropoda,Insecta,Diptera,Chironomidae,Paraclodopelma,99.76,Chironomidae sp.,99,Paraclodopelma
+OTU_188,Arthropoda,Arachnida,Trombidiformes,Pionidae,Trombidiformes,98.56,Pionidae sp.,98,Pionidae sp.
+OTU_189,Heterokontophyta,Oomycota,Pythiales,Pythiaceae,Pythium sp. nov,99.04,Pythium sp. nov,99.04,Pythium sp. nov
+OTU_190,Arthropoda,Insecta,Ephemeroptera,Baetidae,Cloeon dipterum,99.76,No match,No match,Cloeon dipterum
+OTU_191,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_192,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_193,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_194,Arthropoda,Insecta,Diptera,Chironomidae,Gymnometriocnemus sp.,100,No match,No match,Gymnometriocnemus sp.
+OTU_195,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_196,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_197,Arthropoda,Insecta,Diptera,Sciomyzidae,Sepedon sphegea,100,Sepedon sphegea,99.52,Sepedon sphegea
+OTU_198,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_199,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_200,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura gratias,99.28,Corynoneura gratias,99,Corynoneura gratias/arctica
+,,,,,,,Corynoneura arctica,99,
+OTU_201,Arthropoda,Insecta,Diptera,Culicidae,Anopheles maculipennis,99.52,Anopheles maculipennis,99.52,Anopheles maculipennis
+OTU_202,Arthropoda,Insecta,Diptera,Limoniidae,Pilaria discicollis,99.47,Pilaria discicollis,98,Pilaria discicollis
+OTU_203,Actinobacteria,Actinobacteria_incertae_sedis,Actinomycetales,Actinomycetales,Sphingomonas sp.,98.16,Sphingomonas paucimobilis,100,Sphingomonas sp.
+OTU_204,Arthropoda,Malacostraca,Decapoda,Astacidae,Austropotamobius torrentium,100,Austropotamobius torrentium,100,Austropotamobius torrentium
+OTU_205,No match,No match,No match,No match,No match,No match,Homo sapiens,100,Homo sapiens
+OTU_206,Heterokontophyta,Oomycota,Pythiales,Pythiaceae,Pythium coloratum,99.52,Pythium coloratum,100,Pythium coloratum
+OTU_207,Arthropoda,Insecta,Diptera,Chironomidae,Endochironomus tendens,99,Endochironomus tendens,100,Endochironomus tendens
+OTU_208,Arthropoda,Insecta,Odonata,Coenagrionidae,Enallagma cyathigerum,100,Enallagma cyathigerum,100,Enallagma cyathigerum
+OTU_209,Arthropoda,Insecta,Odonata,Coenagrionidae,Ischnura elegans,100,Ischnura elegans,100,Ischnura elegans
+OTU_210,Arthropoda,Insecta,Diptera,Chironomidae,Procladius islandicus,97.6,No match,No match,Procladius islandicus
+OTU_211,Chordata,Mammalia,Primates,Hominidae,Homo sapiens,98,Homo sapiens,100,Homo sapiens
+OTU_212,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_213,Basidiomycota,Basidiomycota,Basidiomycota,Basidiomycota,Basidiomycota,100,Basidiomycota,99,Basidiomycota
+OTU_214,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,97.12,No match,No match,Chironomidae
+OTU_215,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_216,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_217,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_218,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_219,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_220,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_221,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_222,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiales,Rickettsiales,97.51,No match,No match,Rickettsiales
+OTU_223,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_224,Arthropoda,Insecta,Diptera,Chironomidae,Procladius sp.,97.12,Procladius sp.,97,Procladius sp.
+OTU_225,Arthropoda,Insecta,Diptera,Culicidae,Coquillettidia richiardii,100,Coquillettidia richiardii,100,Coquillettidia richiardii
+OTU_226,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia solstitialis,99.76,Bezzia circumdata,98,Bezzia solstitialis/circumdata
+OTU_227,Arthropoda,Insecta,Diptera,Chaoboridae,Chaoborus pallidus,99.76,No match,No match,Chaoborus pallidus
+OTU_228,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_230,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_231,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_232,Arthropoda,Insecta,Diptera,Chironomidae,Chironomus luridus,97.12,Chironomidae sp.,97,Chironomus luridus
+OTU_233,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_234,Arthropoda,Insecta,Odonata,Libellulidae,Sympetrum striolatum,100,Sympetrum striolatum,100,
+OTU_235,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_236,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_237,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_238,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus albator,100,No match,No match,Arrenurus albator
+OTU_239,Arthropoda,Insecta,Diptera,Chironomidae,Procladius sp.,97.17,No match,No match,Procladius sp.
+OTU_241,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_242,Arthropoda,Insecta,Odonata,Coenagrionidae,Pyrrhosoma nymphula,100,Pyrrhosoma nymphula,100,Pyrrhosoma nymphula
+OTU_243,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_244,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_246,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes sp. PA5,98.8,Microtendipes sp. PA5,98.8,Microtendipes sp. PA5
+,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes pedellus,98.56,Microtendipes chloris,98.34,
+,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes brevitarsis,98.32,,,
+OTU_247,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_249,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_250,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_251,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_252,Zygomycota  ,Zygomycota  ,Zygomycota  ,Zygomycota  ,Zygomycota  ,99.22,Mucor circinelloides,97,Zygomycota  
+OTU_253,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_254,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,97.86,Tanytarsus mendax,97.86,Tanytarsus mendax
+OTU_255,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus pallidus,97.49,Cladotanytarsus pallidus,97,Cladotanytarsus pallidus
+OTU_256,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus brundini,98.08,No match,No match,Tanytarsus brundini
+OTU_257,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,Quercus rubra,99.75,Fagacea sp.,99,Fagacea sp.
+OTU_258,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_259,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius cf. limbatellus,97.15,No match,No match,Psectrocladius cf. limbatellus
+OTU_260,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,100,No match,No match,Tanytarsus mendax
+OTU_262,Arthropoda,Insecta,Diptera,Chironomidae,Phaenopsectra flavipes,99.75,Phaenopsectra flavipes,99,Phaenopsectra flavipes
+OTU_264,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_265,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_267,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_269,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_270,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_271,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_272,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_273,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_274,Arthropoda,Insecta,Trichoptera,Phryganeidae,Oligotricha striata,99.76,Oligotricha striata,99.76,Oligotricha striata
+OTU_275,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_276,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_277,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_278,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_279,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_280,Arthropoda,Insecta,Diptera,Chironomidae,Glypotendipes sp.,97.72,Glypotendipes sp.,97,Glypotendipes sp.
+OTU_281,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_282,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,98.02,No match,No match,Chironomidae
+OTU_283,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_284,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_285,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_286,Arthropoda,Insecta,Diptera,Ephydridae,Notiphila riparia,99.75,Notiphila riparia,99.75,Notiphila riparia
+OTU_287,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_288,Arthropoda,Insecta,Diptera,Chironomidae,Chironomidae,97.6,No match,No match,Chironomidae
+OTU_290,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_293,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus bituberculatus,97.84,No match,No match,Paratanytarsus bituberculatus
+OTU_294,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,98.39,Tanytarsus occultus,98.31,Tanytarsus occultus
+OTU_295,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_297,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_298,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_300,Arthropoda,Insecta,Diptera,Chironomidae,Procladius nigriventris,97.12,Procladius culiciformis,97.15,Procladius nigriventris/culiciformis
+,Arthropoda,Insecta,Diptera,Chironomidae,Procladius culiciformis,97.12,,,
+OTU_302,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_303,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_305,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_306,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_307,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,97.09,No match,No match,Tanytarsus mendax
+OTU_309,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_310,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_311,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_312,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,98.08,Tanytarsus mendax,97.39,Tanytarsus mendax
+OTU_313,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,97.12,Tanytarsus occultus,97.12,Tanytarsus occultus
+OTU_314,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus mendax,98.55,Tanytarsus mendax,98,Tanytarsus mendax
+OTU_315,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus brundini,98.38,Tanytarsus brundini,97.86,Tanytarsus brundini
+OTU_316,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus stylatus,99.52,No match,No match,Parametriocnemus stylatus
+OTU_317,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_318,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_319,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_320,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_321,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_322,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Arrenurus compactus,98.32,No match,No match,Arrenurus compactus
+OTU_324,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,99.19,No match,No match,Tanytarsus occultus
+OTU_325,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_326,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiales,Rickettsiales,97.04,No match,No match,Rickettsiales
+OTU_328,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_329,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_330,Arthropoda,Insecta,Diptera,Chironomidae,Cladotanytarsus pallidus,97.5,No match,No match,Cladotanytarsus pallidus
+OTU_332,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_333,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_337,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus sp.,97.35,No match,No match,Tanytarsus sp.
+OTU_338,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus formosanus,100,Tanytarsus formosanus,100,Tanytarsus formosanus
+OTU_339,Arthropoda,Insecta,Coleoptera,Staphylinidae,Anotylus nitidulus,100,Anotylus nitidulus,100,Anotylus nitidulus
+OTU_340,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_342,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_343,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_345,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_347,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_351,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_352,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_353,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_354,Arthropoda,Insecta,Diptera,Chironomidae,Psectrocladius limbatellus,97.12,No match,No match,Psectrocladius limbatellus
+OTU_356,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_357,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus brundini,98.31,No match,No match,Tanytarsus brundini
+OTU_359,Arthropoda,Insecta,Diptera,Dixidae,Dixella aestivalis,99.76,Dixella aestivalis,99.29,Dixella aestivalis
+OTU_360,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_361,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_362,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_363,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_364,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus occultus,98.56,Tanytarsus occultus,99.28,Tanytarsus occultus
+OTU_365,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_368,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_369,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_370,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_371,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_372,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_373,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_374,Magnoliophyta,Liliopsida,Poales,Poaceae,Lolium rigidum,97.12,No match,No match,Lolium rigidum
+OTU_376,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_377,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_378,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_379,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_380,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus bituberculatus,99.28,Paratanytarsus bituberculatus,99,Paratanytarsus bituberculatus
+OTU_381,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_382,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_385,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_386,No match,No match,No match,No match,No match,No match,No match,No match,No match
+OTU_388,Arthropoda,Arachnida,Trombidiformes,Hydryphantidae,Protzia eximia,100,No match,No match,Protzia eximia
+OTU_389,No match,No match,No match,No match,No match,No match,No match,No match,No match
